@@ -1,0 +1,16 @@
+FRONT-END
+---------
+
+- bootsrap
+- react-router-dom
+- uuid
+- axios
+
+BACK-END
+--------
+
+- express
+- cors
+- mongoose
+- dot env
+- nodemon
